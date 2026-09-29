@@ -1,0 +1,6 @@
+{
+  "name": "MediGuide – PDF-Based Medicine Information & Symptom Guide",
+  "description": "Offline-first iOS SwiftUI application with PDFKit text extraction, local keyword matching, and medical safety compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
